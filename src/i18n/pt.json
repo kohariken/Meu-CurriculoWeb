@@ -87,8 +87,8 @@
       {
         "title": "Portifólio",
         "description": "Portifolio de projetos e habilidades feito usando react e javascript.(em construção😀)",
-        "imageUrl": "/images/project3.jpg",
-        "githubUrl": "https://github.com/kohariken",
+        "imageUrl": "/webcurri.png",
+        "githubUrl": "meu-curriculo-web-vert.vercel.app",
         "liveUrl": "https://projeto3.com"
       }
     ]
