@@ -70,7 +70,7 @@ const Contact: React.FC = () => {
               </IconWrapper>
               <Typography variant="h6">
                 <Link href={whatsappLink} target="_blank" rel="noopener noreferrer" color="inherit">
-                  (31) 981742563
+                  (31) 982742563
                 </Link>
               </Typography>
             </ContactItem>
