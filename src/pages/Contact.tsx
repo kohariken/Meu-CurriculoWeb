@@ -77,10 +77,10 @@ const Contact: React.FC = () => {
           </Grid>
         </Grid>
         <SocialIcons>
-          <Link href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer">
+          <Link href="https://github.com/kohariken" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </Link>
-          <Link href="https://www.instagram.com/seu-usuario" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.instagram.com/kohari.f/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </Link>
         </SocialIcons>
