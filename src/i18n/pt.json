@@ -1,0 +1,102 @@
+{
+  "header": {
+    "home": "Início",
+    "skills": "Habilidades",
+    "portfolio": "Portfólio",
+    "contact": "Contato",
+    "title": "Kohari"
+  },
+  "home": {
+    "title": "Fabio Felipe (Kohari).",
+    "subtitle": "Desenvolvedor",
+    "age": "24/01/2000",
+    "about": {
+      "title": "Sobre Mim",
+      "content": "Sou um aspirante a desenvolvedor apaixonado por criar soluções inovadoras para o dia a dia. Com alguma experiencia em tecnologias como Node.js, JavaScript, express, react entre outras. estou sempre buscando aprender e me aprimorar 😃."
+    },
+    "experience": {
+      "title": "Experiências",
+      "items": [
+        {
+          "title": "Waster distribuidora & cia.",
+          "position": "Adimistrativo e gestor de trafego.",
+          "date": "2022 - 2024",
+          "description": "a responsável por criar e gerenciar publicações nas redes sociais, além de desenvolver campanhas de anúncios para a empresa. Também desempenhava atividades administrativas, cuidando do setor administrativo da empresa."
+        }, {
+          "title": "Itau Bank",
+          "date": "2021 - 2022",
+          "position": "Consultor",
+          "description": "minha função principal era a gestão dos dados dos clientes, garantindo a integridade e segurança das informações. Realizava análises detalhadas para identificar problemas e desenvolver soluções eficazes. Minha atuação envolvia a otimização de processos, a implementação de melhorias e a orientação das equipes para assegurar uma otima experiencia para os clientes."
+        },
+        {
+          "title": "Burguer King",
+          "date": "2018 - 2020",
+          "position": "INSTRUTOR DE TREINAMENTO",
+          "description": "minha principal responsabilidade era conduzir o treinamento de novos colaboradores, garantindo que eles adquirissem as competências necessárias para desempenhar suas funções de maneira eficaz. Além disso, eu gerenciava a escala de treinamento, organizando horários e recursos para otimizar o aprendizado."
+        }
+       
+      ]
+    },
+    "education": {
+      "title": "Educação",
+      "items": [
+        {
+          "title": "JUSCELINO KUBTSCHECK DE OLIVEIRA",
+          "date": "2018",
+          "description": "2 GRAU•"
+        },
+        {
+          "title": "Curso de Desenvolvimento Web",
+          "date": "2022",
+          "description": "curso de desenvolvimento web, com foco em React e JavaScript."
+        },
+          {
+          "title": "Curso de informatica (geral)",
+          "date": "2020",
+          "description": "curso focado em hardware (manutenção e sistemas operacionais)"
+        }
+      ]
+    }
+  },
+    "skills": {
+    "title": "Habilidades",
+    "subtitle": "Tecnologias que domino",
+    "content": "Tenho habilidades em mongodb, Node.js, JavaScript, express, react e outras tecnologias. Estou sempre em busca de aprender mais.",
+    "selectSkill" : "Selecione uma habilidade para ver mais detalhes"
+  },
+  "socialLinks": {
+    "github": "https://github.com/kohariken"
+  },
+  "portfolio": {
+    "title": "Meus Projetos",
+    "projects": [
+      {
+        "title": "J.U.L.I.A.",
+        "description": "Uma aplicação web moderna usando Node.js, Express, MongoDB para o gerenciamento de despesas, com funcionalidades de autenticação e autorização entre diversas outras tecnologias. (para teste use as credenciais 'teste' e 'password')",
+        "imageUrl": "/teste julia cap .png",
+        "githubUrl": "https://github.com/kohariken",
+        "liveUrl": "https://kohari.online"
+      },
+      {
+        "title": "Jogo da Velha",
+        "description": "um projeto de um jogo da velha, usando aalgoritmo de inteligência artificial para bloquear jogadas.",
+        "imageUrl": "/jogo da velha img.png",
+        "githubUrl": "https://github.com/kohariken",
+        "liveUrl": "https://kohariken.github.io/Jogo-Da-Velha/"
+      },
+      {
+        "title": "Portifólio",
+        "description": "Portifolio de projetos e habilidades feito usando react e javascript.(em construção😀)",
+        "imageUrl": "/images/project3.jpg",
+        "githubUrl": "https://github.com/kohariken",
+        "liveUrl": "https://projeto3.com"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contato",
+    "description": "Entre em contato comigo através dos seguintes meios:"
+  }
+}
+
+
